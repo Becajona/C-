@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Automovil.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="Diagnostico.cs" />
     <Compile Include="EntradaAuto.cs" />
     <Compile Include="Marca.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

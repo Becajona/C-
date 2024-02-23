@@ -53,6 +53,7 @@
   <ItemGroup>
     <Compile Include="BLLAutomovil.cs" />
     <Compile Include="BLLCliente.cs" />
+    <Compile Include="BLLDiagnostico.cs" />
     <Compile Include="BLLEntrada.cs" />
     <Compile Include="BLLMarca.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

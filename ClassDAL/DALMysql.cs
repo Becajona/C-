@@ -63,6 +63,16 @@ namespace ClassDAL
             return salida;
         }
 
+        public DataSet ConsultaDS(string consulta, MySqlConnection conexion, ref string mensaje)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool ModificarDBseguro(string consulta, MySqlConnection conexion, ref string mensaje)
+        {
+            throw new NotImplementedException();
+        }
+
         public Boolean ModificarDBseguro(string SentenciasSQL, MySqlConnection cnab1, ref string msj,List<MySqlParameter>parametros)// de no saber la cantidad de parametos se hace con un list
         {
             Boolean salida = false;
