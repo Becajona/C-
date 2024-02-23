@@ -1,0 +1,55 @@
+D:\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.AssemblyReference.cache
+D:\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.CoreCompileInputs.cache
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.AssemblyReference.cache
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.CoreCompileInputs.cache
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\ClassBLL.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\ClassBLL.pdb
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\ClassDAL.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\MySql.Data.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\Google.Protobuf.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\Zstandard.Net.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\Ubiety.Dns.Core.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\System.Buffers.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\K4os.Compression.LZ4.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\K4os.Hash.xxHash.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\ClassDAL.pdb
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\MySql.Data.xml
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.CopyComplete
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\obj\Debug\ClassBLL.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\obj\Debug\ClassBLL.pdb
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\ClassEntidadesTaller.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassBLL\bin\Debug\ClassEntidadesTaller.pdb
+D:\Bd\ClassBLL\bin\Debug\ClassBLL.dll
+D:\Bd\ClassBLL\bin\Debug\ClassBLL.pdb
+D:\Bd\ClassBLL\bin\Debug\ClassDAL.dll
+D:\Bd\ClassBLL\bin\Debug\ClassEntidadesTaller.dll
+D:\Bd\ClassBLL\bin\Debug\MySql.Data.dll
+D:\Bd\ClassBLL\bin\Debug\Google.Protobuf.dll
+D:\Bd\ClassBLL\bin\Debug\Zstandard.Net.dll
+D:\Bd\ClassBLL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Bd\ClassBLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\Bd\ClassBLL\bin\Debug\Ubiety.Dns.Core.dll
+D:\Bd\ClassBLL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bd\ClassBLL\bin\Debug\System.Buffers.dll
+D:\Bd\ClassBLL\bin\Debug\K4os.Compression.LZ4.dll
+D:\Bd\ClassBLL\bin\Debug\K4os.Hash.xxHash.dll
+D:\Bd\ClassBLL\bin\Debug\ClassDAL.pdb
+D:\Bd\ClassBLL\bin\Debug\ClassEntidadesTaller.pdb
+D:\Bd\ClassBLL\bin\Debug\MySql.Data.xml
+D:\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.CopyComplete
+D:\Bd\ClassBLL\obj\Debug\ClassBLL.dll
+D:\Bd\ClassBLL\obj\Debug\ClassBLL.pdb
+E:\Bd\ClassBLL\bin\Debug\ClassBLL.dll
+E:\Bd\ClassBLL\bin\Debug\ClassBLL.pdb
+E:\Bd\ClassBLL\bin\Debug\ClassDAL.dll
+E:\Bd\ClassBLL\bin\Debug\ClassEntidadesTaller.dll
+E:\Bd\ClassBLL\bin\Debug\ClassDAL.pdb
+E:\Bd\ClassBLL\bin\Debug\ClassEntidadesTaller.pdb
+E:\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.AssemblyReference.cache
+E:\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.CoreCompileInputs.cache
+E:\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.CopyComplete
+E:\Bd\ClassBLL\obj\Debug\ClassBLL.dll
+E:\Bd\ClassBLL\obj\Debug\ClassBLL.pdb

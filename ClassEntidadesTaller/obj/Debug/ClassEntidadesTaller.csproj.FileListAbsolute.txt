@@ -1,0 +1,12 @@
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassEntidadesTaller\bin\Debug\ClassEntidadesTaller.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassEntidadesTaller\bin\Debug\ClassEntidadesTaller.pdb
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassEntidadesTaller\obj\Debug\ClassEntidadesTaller.csproj.AssemblyReference.cache
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassEntidadesTaller\obj\Debug\ClassEntidadesTaller.csproj.CoreCompileInputs.cache
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassEntidadesTaller\obj\Debug\ClassEntidadesTaller.dll
+D:\Utp\Aplicaciones Web para I4.0\Bd\ClassEntidadesTaller\obj\Debug\ClassEntidadesTaller.pdb
+E:\Bd\ClassEntidadesTaller\bin\Debug\ClassEntidadesTaller.dll
+E:\Bd\ClassEntidadesTaller\bin\Debug\ClassEntidadesTaller.pdb
+E:\Bd\ClassEntidadesTaller\obj\Debug\ClassEntidadesTaller.csproj.AssemblyReference.cache
+E:\Bd\ClassEntidadesTaller\obj\Debug\ClassEntidadesTaller.csproj.CoreCompileInputs.cache
+E:\Bd\ClassEntidadesTaller\obj\Debug\ClassEntidadesTaller.dll
+E:\Bd\ClassEntidadesTaller\obj\Debug\ClassEntidadesTaller.pdb
