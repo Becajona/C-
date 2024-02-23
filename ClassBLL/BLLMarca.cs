@@ -11,7 +11,9 @@ namespace ClassBLL
 {
     public class BLLMarca
     {
-        DALMysql obj1 = new DALMysql("Server=127.0.0.1; port=3306; DataBase=tallermecanico; Uid=root; SSL Mode=None;");
+        DALMysql obj1 = new DALMysql("Server=127.0.0.1;Port=3306;Database=tallersss;Uid=root;Pwd=;SslMode=None;");
+
+
 
         public List<Marca> ListaMarcas(ref string msj)
         {

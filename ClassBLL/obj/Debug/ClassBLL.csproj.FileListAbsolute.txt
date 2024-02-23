@@ -53,3 +53,14 @@ E:\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.CoreCompileInputs.cache
 E:\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.CopyComplete
 E:\Bd\ClassBLL\obj\Debug\ClassBLL.dll
 E:\Bd\ClassBLL\obj\Debug\ClassBLL.pdb
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassBLL\bin\Debug\ClassBLL.dll
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassBLL\bin\Debug\ClassBLL.pdb
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassBLL\bin\Debug\ClassDAL.dll
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassBLL\bin\Debug\ClassEntidadesTaller.dll
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassBLL\bin\Debug\ClassDAL.pdb
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassBLL\bin\Debug\ClassEntidadesTaller.pdb
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.AssemblyReference.cache
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.CoreCompileInputs.cache
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassBLL\obj\Debug\ClassBLL.csproj.CopyComplete
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassBLL\obj\Debug\ClassBLL.dll
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassBLL\obj\Debug\ClassBLL.pdb

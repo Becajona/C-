@@ -10,6 +10,9 @@
             height: 800px;
         }
     </style>
+    
+    <script src="Scripts/bootstrap.min.js"></script>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">

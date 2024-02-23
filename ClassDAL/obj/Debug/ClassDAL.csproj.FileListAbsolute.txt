@@ -59,3 +59,10 @@ E:\Bd\ClassDAL\obj\Debug\ClassDAL.csproj.CoreCompileInputs.cache
 E:\Bd\ClassDAL\obj\Debug\ClassDAL.csproj.CopyComplete
 E:\Bd\ClassDAL\obj\Debug\ClassDAL.dll
 E:\Bd\ClassDAL\obj\Debug\ClassDAL.pdb
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassDAL\bin\Debug\ClassDAL.dll
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassDAL\bin\Debug\ClassDAL.pdb
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassDAL\obj\Debug\ClassDAL.csproj.AssemblyReference.cache
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassDAL\obj\Debug\ClassDAL.csproj.CoreCompileInputs.cache
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassDAL\obj\Debug\ClassDAL.csproj.CopyComplete
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassDAL\obj\Debug\ClassDAL.dll
+C:\Users\Phenom_01_21\Downloads\Bd_Pr\Bd\ClassDAL\obj\Debug\ClassDAL.pdb

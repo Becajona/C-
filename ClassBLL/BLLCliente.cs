@@ -15,7 +15,9 @@ namespace ClassBLL
     {
         //regla para comprobar la conexiona la DB
 
-        DALMysql obj1 = new DALMysql("Server=127.0.0.1; port=3306; DataBase=tallermecanico; Uid=root; SSL Mode=None;");
+        DALMysql obj1 = new DALMysql("Server=127.0.0.1;Port=3306;Database=tallersss;Uid=root;Pwd=;SslMode=None;");
+
+
         public string ProbarConexionMysql()
         {
             string cadmsj = "";

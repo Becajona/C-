@@ -106,9 +106,9 @@ namespace WebApplication1
             {
                 dtt2 = (System.Data.DataSet)Session["BDcopia"];
                 System.Data.DataTable dttem = null;
-                //dtem se encima a dt clientes
+               
                 dttem = dtt2.Tables["cliente"];
-                //referencia para acceder a los data rows del datatable
+                
                 System.Data.DataRow dataRow = null;
                 int g = 0;
                 DropDownList1.Items.Clear();
@@ -125,10 +125,7 @@ namespace WebApplication1
             }
         }
 
-        //obtener indice  seleccioado
-        //acceder a los dtaos de las celdas espci del renglon
-        //otro}
-        //se muetsre en una etiqueta
+        
         protected void Button5_Click(object sender, EventArgs e)
         {
 
@@ -140,9 +137,7 @@ namespace WebApplication1
                 ds2 = (System.Data.DataSet)Session["BDcopia"];
 
                 dt4 = ds2.Tables[0];
-                //como el datable cliente ya tiene la estructura de la tabla clintes que obtuvo apartir de la consulta
-                //el nuevo Datarow que se quiere agregar debera de tener esa misma estructura
-                //, eso se hace asi:
+                
 
                 drnuevo = dt4.NewRow();
                 drnuevo[0] = TextBox3.Text;
@@ -150,7 +145,7 @@ namespace WebApplication1
                 drnuevo["App"] = TextBox5.Text;
                 drnuevo[3]=TextBox6.Text;   
 
-                //agregamos al nuevo datarow que ya tiene datos, a la conexion de datarows del datatable
+               
 
                 dt4.Rows.Add(drnuevo);
 
